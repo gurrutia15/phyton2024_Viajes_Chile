@@ -7,5 +7,5 @@ let cambioFondo= ()=>{
 }
 let vueltaColor = () => {
     document.getElementById('boton_form').style.background='#0dcaf0'
-    document.getElementById('boton_form').style.color='#ffffff'
+    document.getElementById('boton_form').style.color='#000000'
 }
